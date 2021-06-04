@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520639984386",
+    "firebase_url": "https://chatapp-ee15e-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-ee15e",
+    "storage_bucket": "chatapp-ee15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520639984386:android:106767f8929d084ec9881b",
+        "android_client_info": {
+          "package_name": "my.thanhhoang.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520639984386-m6fc22d45a8fcs96ji340sf43ij66hpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8y7kVoYf6gbe9CXOtK1eNdAhM9f32xvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520639984386-m6fc22d45a8fcs96ji340sf43ij66hpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
