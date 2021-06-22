@@ -26,7 +26,7 @@
         android:layout_width="217dp"
         android:layout_height="30dp"
         android:fontFamily="sans-serif-smallcaps"
-        android:text="Hoang dep trai"
+        android:text="IT-QNU"
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textColor="#FDFDFD"

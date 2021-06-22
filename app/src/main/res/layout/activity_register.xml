@@ -63,7 +63,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Create Account"
+        android:text="Tạo tài khoản"
         android:textColor="@color/DarkBlue"
         android:textSize="25dp"
         android:textStyle="bold"
@@ -159,7 +159,7 @@
             android:layout_height="40dp"
             android:layout_marginTop="20dp"
             android:background="@drawable/button_shape"
-            android:text="Register"
+            android:text="Đăng kí"
             android:textColor="#FFFF"
             android:textSize="18sp"
             app:backgroundTint="@color/green" />
@@ -216,7 +216,7 @@
             android:layout_marginTop="15dp"
             android:background="@drawable/btnred"
             android:padding="5dp"
-            android:text="Login"
+            android:text="Đăng nhập"
             android:textColor="@color/white"
             android:textSize="14sp"
             app:backgroundTint="@color/Red" />
